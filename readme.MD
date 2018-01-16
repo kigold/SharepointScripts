@@ -40,5 +40,5 @@ name_of_script
 ```
 6. Press enter, if all goes well, you should see prompts that were put in the script, and the desired outcome would have being acheived.
 
-###...and thats all folks
+### ...and thats all folks
 
