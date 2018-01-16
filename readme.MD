@@ -7,9 +7,8 @@ This is a collection of Powershell Scripts that would make basic sharepoint deve
 Install Power Shell on your Windows PC.
 Click on the link below to view the setup requirements, this would enable you utilize SharePointPnP.PowerShell Commands.
 
-```
 [a link](https://github.com/SharePoint/PnP-PowerShell)
-```
+
 ## Setting up Authentication
 1. Go to control panel on your laptop and look for Credential Manager
 2. Click on WIndows Credentials
