@@ -1,6 +1,6 @@
 # Sharepoint Automation with Power Shell
 
-Scripts that would make basic sharepoint development tasks easier to perform.
+This is a collection of Powershell Scripts that would make basic sharepoint development tasks easier to perform.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Install Power Shell on your Windows PC.
 Click on the link below to view the setup requirements, this would enable you utilize SharePointPnP.PowerShell Commands.
 
 ```
-https://github.com/SharePoint/PnP-PowerShell
+<a href="https://github.com/SharePoint/PnP-PowerShell">Click Here</a>
 ```
 ## Setting up Authentication
 1. Go to control panel on your laptop and look for Credential Manager
