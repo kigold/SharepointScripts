@@ -38,7 +38,7 @@ cd path/of/repo
 ```
 name_of_script
 ```
-6. Press enter, if all goes well, you should see prompts that were put in the script, and the desired outcome would have being acheived.
+6. Press enter, if all goes well, you should see prompts that were put in the script, and the desired outcome would have been acheived.
 
 ### ...and thats all folks
 
